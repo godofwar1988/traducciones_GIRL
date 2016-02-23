@@ -19,7 +19,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "creditos-traductor"
 
 #. (itstool) path: credit/name
 #: C/aboutprogram.page:9 C/aboutstation.page:9 C/exit.page:9 C/index.page:14
@@ -39,7 +39,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/aboutprogram.page:17 C/index.page:64
 msgid "About Program"
-msgstr ""
+msgstr "Acerca del programa"
 
 #. (itstool) path: page/p
 #: C/aboutprogram.page:19
@@ -48,6 +48,10 @@ msgid ""
 "click on \"About Program\" in order to find the email address of the "
 "<app>GIRL</app> maintainer(s), documenter(s), translators, and artists."
 msgstr ""
+"Si quieres saber quien contribuyo en <app>GIRL</app> software, entonces da "
+"clic en \"Acerca del Programa\" para encontrar el correo electronico de el "
+"mantenedor(es), documentador(es), traductor(es) y diseñador(es) de <app>GIRL"
+"</app>"
 
 #. (itstool) path: page/title
 #. (itstool) path: section/title
@@ -84,7 +88,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/exit.page:17
 msgid "Exit"
-msgstr ""
+msgstr "Salir"
 
 #. (itstool) path: page/p
 #: C/exit.page:19
@@ -125,7 +129,7 @@ msgstr ""
 #. (itstool) path: credit/years
 #: C/index.page:16
 msgid "2015"
-msgstr ""
+msgstr "2015"
 
 #. (itstool) path: info/desc
 #: C/index.page:21
@@ -151,7 +155,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/index.page:33
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #. (itstool) path: section/p
 #: C/index.page:34
@@ -162,7 +166,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/index.page:38 C/listen.page:17
 msgid "Listen"
-msgstr ""
+msgstr "Escuchar"
 
 #. (itstool) path: section/p
 #: C/index.page:39
@@ -175,7 +179,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/index.page:43 C/record.page:17
 msgid "Record"
-msgstr ""
+msgstr "Grabar"
 
 #. (itstool) path: section/p
 #: C/index.page:44
@@ -186,7 +190,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/index.page:49 C/prev.page:13
 msgid "Prev"
-msgstr ""
+msgstr "Previo"
 
 #. (itstool) path: section/p
 #: C/index.page:50
@@ -197,7 +201,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/index.page:54 C/next.page:17
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #. (itstool) path: section/p
 #: C/index.page:55
@@ -231,7 +235,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/intro.page:17
 msgid "Intro"
-msgstr ""
+msgstr "Introducción"
 
 #. (itstool) path: page/p
 #: C/intro.page:21
